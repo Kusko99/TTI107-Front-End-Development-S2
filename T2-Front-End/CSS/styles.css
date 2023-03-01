@@ -1,0 +1,17 @@
+/* footer{
+    display: flex;
+    justify-content: center;
+    border: black 2px solid;
+    border-radius: 15px;
+    padding: 15px;
+} */
+
+article{
+    margin: 10px;
+}
+
+.botao{
+    width: 7.5rem;
+    height: 4rem;
+}
+
